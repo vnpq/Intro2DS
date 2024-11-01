@@ -1,0 +1,21 @@
+# Last update: 08/09/2021
+name: min_ds-env2
+channels:
+  - conda-forge
+dependencies:
+  - git
+  - jupyterlab=3.3.4
+  - jupyter_contrib_nbextensions=0.5.1
+  - python=3.10
+  - requests=2.27.1
+  - requests-cache=0.9.4
+  - beautifulsoup4=4.11.1
+  - selenium=4.1.0
+  - python-chromedriver-binary=96.0.4664.45
+  - matplotlib=3.5.1
+  - numpy=1.21.6
+  - pandas=1.4.2
+  - openpyxl=3.0.9  # Helps pandas read excel files
+  - scikit-learn=1.0.2
+  - seaborn=0.11.2
+  - scikit-image=0.24.0
